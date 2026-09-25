@@ -2,7 +2,7 @@
 
 ## Formål
 
-Denne indkøbsliste beskriver **hvilke typer dele** der skal bruges til første version af Jakobs drone, og **hvilke specifikationer** der skal kontrolleres før køb. Listen undgår bevidst at låse projektet fast på ubekræftede produktmodeller, priser eller lagerstatus.
+Denne indkøbsliste beskriver **hvilke typer dele** der skal bruges til første version af Jakobs drone, og **hvilke specifikationer** der skal kontrolleres før køb. Listen undgår bevidst at låse sig fast på én enkelt producent, men peger på de relevante krav og de forhandlere, der er mest relevante at undersøge i første runde.
 
 ## Indkøbsramme
 
@@ -192,6 +192,33 @@ Følgende er ikke altid absolut nødvendige for at tænde systemet, men de er st
 - multimeter til spændings- og kontinuitetskontrol
 - røgstopper eller strømbegrænset første-opstartsmetode
 - reserveskruer, afstandsstykker og bløde monteringsdele hvis nødvendigt
+
+## Købskandidater og første screening
+
+> Denne tabel er en første screening af europæiske købssteder og produktkategorier. Priser og lagerstatus skal kontrolleres på den konkrete produktside, før der bestilles.
+
+| Kategori | Kandidat / produktgruppe | Link | Pris | Butik | Status | Noter |
+|---|---|---|---:|---|---|---|
+| 5" frame | 5" FPV frame / carbon frame | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Søg efter 5" frame med passende stack-område og GPS-plads |
+| Motorer | 2207 / 2306 5" motorer | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg motorer med passende KV til 4S og 5" propeller |
+| Motorer | 5" motorer | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | God anden mulighed for europæisk levering |
+| 4-i-1 ESC | 3-6S 4-in-1 ESC | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Sørg for 3-6S og passende strømkapacitet |
+| 4-i-1 ESC | 4-in-1 ESC til 5" drone | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Brug som alternativ til iFlight |
+| Flight controller | INAV-kompatibel FC | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Sørg for nok UARTs til GPS og receiver |
+| Flight controller | INAV-kompatibel FC | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | God mulighed til at sammenligne stack-krav |
+| GPS | GPS-modul til quadcopter | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg kompatibel variant til valgt FC |
+| GPS | GPS-modul | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Kontroller fysisk størrelse og kabeltype |
+| Receiver | ELRS / FrSky / kompatibel receiver | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg protokol, der passer til FC og INAV |
+| Receiver | RC receiver til quadcopter | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Kontroller kanaler til arm, modes og RTH |
+| 4S LiPo | 4S LiPo batteri | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Match kapacitet og størrelse til frame |
+| 4S LiPo | 4S LiPo batteri | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Vurder kapacitet, vægt og sikkerhedsmargin |
+| Propeller | 5" propeller | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg korrekt rotationsretning og hulmål |
+| Propeller | 5" propeller | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Brug som alternativ til iFlight |
+| XT60 + ledninger | XT60 og strømledninger | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg passende ledningsdimension og kvalitet |
+| XT60 + ledninger | XT60 / strømdele | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Vurder tilslutning, sikkerhed og vibration |
+| Kondensator | ESC-kondensator | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Match ESC-producerens anbefalinger |
+| Buzzer | FC buzzer | https://iflight-rc.eu/da-dk | TBD | iFlight | Skal valideres | Vælg kompatibel output til FC |
+| Buzzer | FC buzzer | https://www.fpv24.com/en/ | TBD | FPV24 | Skal valideres | Brug som alternativ efter FC-valg |
 
 ## Valgfrie ting til senere
 
