@@ -4,6 +4,8 @@
 
 Denne manual beskriver en forsigtig og begyndervenlig arbejdsgang til at bygge den første version af Jakobs drone: en 5-tommer quadcopter med INAV, GPS og Return to Home, men **uden FPV**.
 
+Læs først [Sådan virker en drone](droneprincipper.md) for en forklaring af komponenter, forkortelser og de fysiske principper bag flyvningen.
+
 > **Sikkerhedsregel:** Propeller skal være **afmonteret under al konfiguration, fejlfinding og bench test**.
 
 ## 1. Planlægning
