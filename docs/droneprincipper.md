@@ -34,15 +34,13 @@ Dronens bevægelse afhænger af forholdet mellem løftet og dens vægt:
 
 Sammenhængen kan skrives som:
 
-$$
-T = m \cdot g
-$$
+T = m * g
 
 Her betyder:
 
-- $T$: den samlede løftekraft
-- $m$: dronens masse i kilogram
-- $g$: tyngdeaccelerationen, cirka $9,82\ \text{m/s}^2$
+- `T`: den samlede løftekraft
+- `m`: dronens masse i kilogram
+- `g`: tyngdeaccelerationen, cirka 9,82 m/s²
 
 Man behøver ikke kunne bruge formlen for at forstå princippet. Det vigtigste er, at propellerne skal skabe nok løft til at holde dronen i luften.
 
@@ -272,21 +270,17 @@ De skal behandles forsigtigt, fordi forkert opladning, kortslutning eller fysisk
 
 Et 4S-batteri består af fire battericeller, som er forbundet i serie.
 
-Hver celle har en nominel spænding på cirka $3,7\ \text{V}$.
+Hver celle har en nominel spænding på cirka 3,7 V.
 
 Batteriets nominelle spænding er derfor:
 
-$$
-4 \cdot 3,7\ \text{V} = 14,8\ \text{V}
-$$
+4 * 3,7 V = 14,8 V
 
-Når batteriet er fuldt opladet, er hver celle normalt $4,2\ \text{V}$.
+Når batteriet er fuldt opladet, er hver celle normalt 4,2 V.
 
 Den samlede spænding er derfor:
 
-$$
-4 \cdot 4,2\ \text{V} = 16,8\ \text{V}
-$$
+4 * 4,2 V = 16,8 V
 
 Et 4S-batteri kaldes altså ofte et 14,8 V-batteri, selv om spændingen er 16,8 V, når det er helt opladet.
 
@@ -300,15 +294,13 @@ Tre vigtige størrelser er:
 
 Effekten kan beregnes med formlen:
 
-$$
-P = V \cdot I
-$$
+P = V * I
 
 Her betyder:
 
-- $P$: effekt i watt
-- $V$: spænding i volt
-- $I$: strøm i ampere
+- `P`: effekt i watt
+- `V`: spænding i volt
+- `I`: strøm i ampere
 
 Hvis motorerne arbejder hårdt, bruger de mere strøm. Det giver:
 
@@ -322,15 +314,11 @@ Et batteri på 1500 mAh har en kapacitet på 1,5 Ah.
 
 Batteriets energi kan omtrent beregnes sådan:
 
-$$
-E = 14,8\ \text{V} \cdot 1,5\ \text{Ah}
-$$
+E = 14,8 V * 1,5 Ah
 
 Det giver:
 
-$$
-E = 22,2\ \text{Wh}
-$$
+E = 22,2 Wh
 
 Wh betyder watt-timer og beskriver, hvor meget energi batteriet omtrent kan indeholde.
 
